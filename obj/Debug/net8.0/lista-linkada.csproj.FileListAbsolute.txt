@@ -1,0 +1,15 @@
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\bin\Debug\net8.0\lista-linkada.exe
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\bin\Debug\net8.0\lista-linkada.deps.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\bin\Debug\net8.0\lista-linkada.runtimeconfig.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\bin\Debug\net8.0\lista-linkada.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\bin\Debug\net8.0\lista-linkada.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.AssemblyInfoInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.AssemblyInfo.cs
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.csproj.CoreCompileInputs.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.sourcelink.json
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\refint\lista-linkada.dll
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.pdb
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\lista-linkada.genruntimeconfig.cache
+C:\Users\corso\OneDrive\Área de Trabalho\EstruturaDADOS\lista-linkada\obj\Debug\net8.0\ref\lista-linkada.dll
